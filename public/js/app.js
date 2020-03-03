@@ -1,5 +1,3 @@
-console.log('Client side java script loaded')
-
 const wetherForm = document.querySelector('form')
 const address = document.querySelector('input')
 const msg1 = document.querySelector('#msg1')
